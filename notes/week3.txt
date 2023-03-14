@@ -1,0 +1,6 @@
+hw:
+marks: 90
+remarks: runs with errors
+
+lab:
+marks:0
